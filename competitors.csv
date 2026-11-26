@@ -1,0 +1,4 @@
+brand,page_id,is_client
+Our brand,YOUR_PAGE_ID,yes
+Competitor A,COMPETITOR_A_PAGE_ID,no
+Competitor B,COMPETITOR_B_PAGE_ID,no
